@@ -10,6 +10,4 @@
     <build>
         <finalName>docker-jenkins-integration</finalName>
     </build>
-
-
 </project>
