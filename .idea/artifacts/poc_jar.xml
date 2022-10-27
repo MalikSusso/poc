@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="poc:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/poc_jar</output-path>
+    <root id="archive" name="poc.jar">
+      <element id="module-output" name="poc" />
+    </root>
+  </artifact>
+</component>
